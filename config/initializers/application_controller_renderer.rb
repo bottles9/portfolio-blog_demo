@@ -1,3 +1,5 @@
+Rails.application.config.assets.precompile += %w( glyphicons-halflings-white.png )
+
 # Be sure to restart your server when you modify this file.
 
 # ApplicationController.renderer.defaults.merge!(
